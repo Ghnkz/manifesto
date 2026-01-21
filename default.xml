@@ -36,7 +36,7 @@
   <project path="kernel/xiaomi/msm8953/techpack/xiaomi-titanium"        name="kernel_techpack_xiaomi-titanium"    groups="device" remote="alice" revision="techpack/titanium/4.19/master"/>
 
   <!-- VINCE-CAMERA-COMMON -->
-  <project path="device/xiaomi/vince/camera"        name="android_device_xiaomi_msm8953-camera"        groups="device" remote="alice" revision="a11/vince/master" />
+  <project path="device/xiaomi/vince/camera"        name="android_device_xiaomi_vince_camera"        groups="device" remote="alice" revision="main" />
 
   <!-- YSL-CAMERA-COMMON -->
   <project path="device/xiaomi/ysl/camera"        name="android_device_xiaomi_msm8953-camera"        groups="device" remote="alice" revision="a11/vince/master" />
