@@ -17,7 +17,7 @@
             fetch="https://github.com/Project-Nightcord"
             revision="lineage-20.0" />
 
-  <remote name="lo"
+  <remote name="los"
             fetch="https://github.com/lineageos"
             revision="lineage-20.0" />
 
