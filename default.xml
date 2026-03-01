@@ -44,7 +44,7 @@
   <project path="device/xiaomi/vince/camera"        name="android_device_xiaomi_vince_camera"        groups="device" remote="alice" revision="main" />
 
   <!-- YSL-CAMERA-COMMON -->
-  <project path="device/xiaomi/ysl/camera"        name="android_device_xiaomi_msm8953-camera"        groups="device" remote="alice" revision="a11/vince/master" />
+  <project path="device/xiaomi/ysl/camera"        name="android_device_xiaomi_ysl_camera"        groups="device" remote="alice" revision="main" />
 
   <!-- extra -->
   <project path="vendor/lineage-priv" name="vendor_extra" remote="alice" revision="14" />
