@@ -23,14 +23,14 @@
   <project path="vendor/xiaomi/mithorium-common-graphics" name="proprietary_vendor_xiaomi_mithorium-common-graphics" groups="device" remote="mi-thorium" revision="a15_qpr2/master"/>
 
   <!-- Common - Kernel 4.19 -->
-  <project path="vendor/xiaomi/mithorium-common-4.19" name="proprietary_vendor_xiaomi_mithorium-common-4.19" groups="device" remote="mi-thorium" revision="a15_qpr2/master"/>
+  <project path="vendor/xiaomi/mithorium-common-4.19" name="proprietary_vendor_xiaomi_mithorium-common-4.19" groups="device" remote="alice" revision="a15_qpr2/master"/>
 
   <!-- Vince -->
   <project path="device/xiaomi/vince"        name="android_device_xiaomi_vince"        groups="device" remote="alice" revision="afl"/>
   <project path="vendor/xiaomi/vince"        name="proprietary_vendor_xiaomi_vince"    groups="device" remote="alice" revision="lineage-22.2"/>
 
   <!-- Ysl -->
-  <project path="device/xiaomi/ysl"        name="android_device_xiaomi_ysl"        groups="device" remote="alice" revision="lineage-22.2"/>
+  <project path="device/xiaomi/ysl"        name="android_device_xiaomi_ysl"        groups="device" remote="alice" revision="afterlife-16.3"/>
   <project path="vendor/xiaomi/ysl"        name="proprietary_vendor_xiaomi_ysl"    groups="device" remote="alice" revision="lineage-22.2"/>
 
   <!-- kernel-vince-ysl-k4.19 -->
@@ -47,7 +47,7 @@
   <project path="device/xiaomi/ysl/camera"        name="android_device_xiaomi_msm8953-camera"        groups="device" remote="alice" revision="a11/vince/master" />
 
   <!-- hardware/xiaomi -->
-  <project path="hardware/xiaomi" name="hardware_xiaomi" remote="alice" revision="lineage-22.2" />
+  <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="alice" revision="lineage-23.2" />
 
   <!-- Hardware -->
   <project path="hardware/mithorium/common" name="android_hardware_mithorium_common" groups="device" remote="mi-thorium" revision="lineage">
