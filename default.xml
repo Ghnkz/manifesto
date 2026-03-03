@@ -50,7 +50,7 @@
   <project path="vendor/lineage-priv" name="vendor_extra" remote="alice" revision="14" />
 
   <!-- hardware/xiaomi -->
-  <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="alice" revision="lineage-22.2" />
+  <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="alice" revision="lineage-23.2" />
 
   <!-- Hardware -->
   <project path="hardware/mithorium/common" name="android_hardware_mithorium_common" groups="device" remote="mi-thorium" revision="lineage">
