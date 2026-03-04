@@ -10,7 +10,7 @@
             revision="lineage-20.0" />
 
   <remote name="kaguya"
-            fetch="https://github.com/kaguyahimeAlt"
+            fetch="https://github.com/imren0x"
             revision="lineage-20.0" />
 
   <remote name="los"
