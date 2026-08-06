@@ -18,7 +18,7 @@
             revision="lineage-20.0" />
   
   <remote name="kernel"
-            fetch="https://github.com/Ghnkz"
+            fetch="https://github.com/Ghnkz-hub"
             revision="mi8953/latest" />
 
   <!-- Common -->
@@ -38,7 +38,7 @@
   <project path="vendor/xiaomi/ysl"        name="proprietary_vendor_xiaomi_ysl"    groups="device" remote="alice" revision="lineage-22.2"/>
 
   <!-- mi8953-k4.19 -->
-  <project path="kernel/xiaomi/msm8953"        name="msm-4.19"    groups="device" remote="kernel" revision="mi8953/latest"/>
+  <project path="kernel/xiaomi/msm8953"        name="msm-4.19"    groups="device" remote="kernel" revision="ori"/>
 
   <!-- VINCE-CAMERA-COMMON -->
   <project path="device/xiaomi/vince/camera"        name="android_device_xiaomi_vince_camera"        groups="device" remote="alice" revision="main" />
