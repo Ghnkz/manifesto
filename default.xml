@@ -21,6 +21,10 @@
             fetch="https://github.com/Ghnkz-hub"
             revision="mi8953/latest" />
 
+  <remote name="viper"
+            fetch="https://github.com/Ghnkz"
+            revision="lineage-23.2" />
+
   <!-- Common -->
   <project path="device/xiaomi/mithorium-common" name="android_device_xiaomi_mithorium-common"     groups="device" remote="alice" revision="lineage-23.2" />
   <project path="vendor/xiaomi/mithorium-common" name="proprietary_vendor_xiaomi_mithorium-common" groups="device" remote="alice" revision="lineage-22.2" />
@@ -28,6 +32,7 @@
 
   <!-- Common - Kernel 4.19 -->
   <project path="vendor/xiaomi/mithorium-common-4.19" name="proprietary_vendor_xiaomi_mithorium-common-4.19" groups="device" remote="alice" revision="a15_qpr2/master"/>
+  <project path="packages/apps/ViPER4AndroidFX" name="packages_apps_ViPER4AndroidFX" groups="device" remote="viper" revision="lineage-23.2"/>
 
   <!-- Vince -->
   <project path="device/xiaomi/vince"        name="android_device_xiaomi_vince"        groups="device" remote="alice" revision="lineage-22.2"/>
