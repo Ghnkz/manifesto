@@ -41,7 +41,7 @@
   <project path="kernel/xiaomi/msm8953"        name="msm-4.19"    groups="device" remote="kernel" revision="Naughty"/>
 
   <!-- VINCE-CAMERA-COMMON -->
-  <project path="device/xiaomi/vince/camera"        name="android_device_xiaomi_vince_camera"        groups="device" remote="alice" revision="main" />
+  <project path="device/xiaomi/vince/camera"        name="android_device_xiaomi_vince_camera"        groups="device" remote="kernel" revision="main" />
 
   <!-- YSL-CAMERA-COMMON -->
   <project path="device/xiaomi/ysl/camera"        name="android_device_xiaomi_ysl_camera"        groups="device" remote="alice" revision="main" />
