@@ -51,7 +51,7 @@
   <project path="device/xiaomi/ysl/camera"        name="android_device_xiaomi_ysl_camera"        groups="device" remote="alice" revision="main" />
 
   <!-- extra -->
-  <project path="vendor/lineage-priv" name="minami-sign" remote="sign" revision="keys" />
+  <project path="vendor/lineage-priv/keys" name="minami-sign" remote="sign" revision="keys" />
 
   <!-- hardware/xiaomi -->
   <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="alice" revision="lineage-23.2" />
