@@ -47,7 +47,7 @@
   <project path="device/xiaomi/ysl/camera"        name="android_device_xiaomi_ysl_camera"        groups="device" remote="alice" revision="main" />
 
   <!-- extra -->
-  <project path="vendor/lineage-priv" name="vendor_extra" remote="alice" revision="14" />
+  <project path="vendor/lineage-priv" name="vendor_lineage-priv" remote="kernel" revision="master" />
 
   <!-- hardware/xiaomi -->
   <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="alice" revision="lineage-23.2" />
