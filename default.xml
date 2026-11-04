@@ -18,7 +18,7 @@
             revision="lineage-20.0" />
   
   <remote name="kernel"
-            fetch="https://github.com/Naughty-stuff/Ghnkz"
+            fetch="https://github.com/Naughty-stuff"
             revision="ast-v2" />
 
     <remote name="sign"
